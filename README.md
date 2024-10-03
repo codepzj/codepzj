@@ -5,4 +5,12 @@
 - 😄 Pronouns: male
 - ⚡ Fun fact: I don't like studying in school
 
-[![my GitHub stats](https://github-readme-stats.vercel.app/api?username=codepzj)](https://github.com/anuraghazra/github-readme-stats)
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Some Statistics About Me
+<p>
+	<img  style="width:460px;" src="https://github-readme-stats.vercel.app/api?username=codepzj&show_icons=true&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Github Stats"/>
+	<img style="width:334px;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepzj&show_icons=true&layout=compact&exclude_repo=codepzj.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Top Langs" />
+</p>
