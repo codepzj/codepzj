@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codepzj
 - 👀 I’m interested in Golang and Python
 - 🌱 I’m currently learning in South North University
-- 📫 How to reach me [**my blog**](https://blog.codepzj.cn) , [**email**](mailto:email@codepzj.cn)
+- 📫 How to reach me [**blog**](https://blog.codepzj.cn) , [**email**](mailto:email@codepzj.cn)
 - 😄 Pronouns: male
 - ⚡ Fun fact: I don't like studying in school
 
