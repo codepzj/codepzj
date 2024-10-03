@@ -5,9 +5,6 @@
 - 😄 Pronouns: male
 - ⚡ Fun fact: I don't like studying in school
 
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## Some Statistics About Me
 <p>
