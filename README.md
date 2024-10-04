@@ -25,11 +25,6 @@
 
 ![codepzj's GitHub stats](https://github-immortality.vercel.app/api?username=codepzj)
 
-## 📚 博客最近更新
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 📊 GitHub 数据统计
 
 ![codepzj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codepzj&bg_color=ffffff&color=000000&line=FF69B4&point=ff0000&area=true&hide_border=true)
