@@ -28,3 +28,5 @@
 ## 📊 GitHub 数据统计
 
 ![codepzj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codepzj&bg_color=ffffff&color=000000&line=FF69B4&point=ff0000&area=true&hide_border=true)
+
+![codepzj's github profile](https://cdn.jsdelivr.net/gh/codepzj/codepzj/profile-3d-contrib/profile-south-season-animate.svg)
