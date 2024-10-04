@@ -23,6 +23,9 @@
 
 👋 你好，我是 codepzj，我对 Golang 和 Python 很感兴趣。
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ![codepzj's GitHub stats](https://github-immortality.vercel.app/api?username=codepzj)
 
 ## 📊 GitHub 数据统计
