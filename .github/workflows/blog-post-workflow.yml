@@ -17,6 +17,6 @@ jobs:
       - name: Pull in blog.codepzj.cn posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://blog.codepzj.cn/atom.xml"
+          feed_list: "https://blog.codepzj.cn/rss.xml"
           template: "$newline- $date [$title]($url)"
           date_format: yyyy-mm-dd
