@@ -28,11 +28,6 @@
 ## 📚最近博文更新
 
 <!-- BLOG-POST-LIST:START -->
-- [js中的值传递和引用传递](https://blog.codepzj.cn/posts/14.html)
-- [博客真的需要魔改吗](https://blog.codepzj.cn/posts/13.html)
-- [hexo博客接入免费GPT（仿TianLiGPT）](https://blog.codepzj.cn/posts/12.html)
-- [python爬取LearnKu的markdown文档](https://blog.codepzj.cn/posts/11.html)
-- [cloudflare解决cors跨域问题](https://blog.codepzj.cn/posts/10.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub 数据统计
