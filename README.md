@@ -28,11 +28,11 @@
 ## 📚最近博文更新
 
 <!-- BLOG-POST-LIST:START -->
+- [js动态执行](https://blog.codepzj.cn/posts/16.html)
 - [particles库实现粒子效果](https://blog.codepzj.cn/posts/15.html)
 - [js中的值传递和引用传递](https://blog.codepzj.cn/posts/14.html)
 - [博客真的需要魔改吗](https://blog.codepzj.cn/posts/13.html)
 - [hexo博客接入免费GPT（仿TianLiGPT）](https://blog.codepzj.cn/posts/12.html)
-- [python爬取LearnKu的markdown文档](https://blog.codepzj.cn/posts/11.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub 数据统计
