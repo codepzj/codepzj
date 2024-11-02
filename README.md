@@ -28,11 +28,11 @@
 ## 📚最近博文更新
 
 <!-- BLOG-POST-LIST:START -->
+- [git基础命令](https://blog.codepzj.cn/posts/23.html)
 - [Follow认证订阅源](https://blog.codepzj.cn/posts/22.html)
 - [qexo管理hexo文章](https://blog.codepzj.cn/posts/21.html)
 - [1panel部署yourls短链接服务](https://blog.codepzj.cn/posts/20.html)
 - [国内云服务器厂商的价格与性价比调研](https://blog.codepzj.cn/posts/19.html)
-- [又掌握了一门新技能-剪辑](https://blog.codepzj.cn/posts/18.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub 数据统计
