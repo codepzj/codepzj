@@ -18,4 +18,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://blog.codepzj.cn/atom.xml"
+          feed_list: "https://cdn.jsdelivr.net/gh/codepzj/blog-auto-push@main/atom.xml"
