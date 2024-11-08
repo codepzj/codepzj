@@ -27,6 +27,8 @@
 
 ## 📚最近博文更新
 
+https://blog.codepzj.cn
+
 <!-- BLOG-POST-LIST:START -->
 - [git基础命令](https://blog.codepzj.cn/posts/23.html)
 - [Follow认证订阅源](https://blog.codepzj.cn/posts/22.html)
