@@ -30,11 +30,11 @@
 https://blog.codepzj.cn
 
 <!-- BLOG-POST-LIST:START -->
+- [neo4j图数据库基本语法](https://blog.codepzj.cn/posts/24.html)
 - [git基础命令](https://blog.codepzj.cn/posts/23.html)
 - [Follow认证订阅源](https://blog.codepzj.cn/posts/22.html)
 - [qexo管理hexo文章](https://blog.codepzj.cn/posts/21.html)
 - [1panel部署yourls短链接服务](https://blog.codepzj.cn/posts/20.html)
-- [国内云服务器厂商的价格与性价比调研](https://blog.codepzj.cn/posts/19.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub 数据统计
