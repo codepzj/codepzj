@@ -30,11 +30,11 @@
 https://blog.codepzj.cn
 
 <!-- BLOG-POST-LIST:START -->
-- [添加echarts数据统计](https://blog.codepzj.cn/posts/27.html)
 - [添加chat组件](https://blog.codepzj.cn/posts/26.html)
-- [学者网用户关系的可视化与六度关系理论的探索](https://blog.codepzj.cn/posts/25.html)
 - [neo4j图数据库基本语法](https://blog.codepzj.cn/posts/24.html)
 - [git基础命令](https://blog.codepzj.cn/posts/23.html)
+- [Follow认证订阅源](https://blog.codepzj.cn/posts/22.html)
+- [qexo管理hexo文章](https://blog.codepzj.cn/posts/21.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub 数据统计
