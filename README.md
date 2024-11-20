@@ -27,14 +27,7 @@
 
 ## 📚最近博文更新
 
-https://blog.codepzj.cn
-
 <!-- BLOG-POST-LIST:START -->
-- [artalk配置社交登录踩坑日记](https://blog.codepzj.cn/posts/30.html)
-- [wiki侧边栏可设置为折叠块](https://blog.codepzj.cn/posts/29.html)
-- [一个人进步最快的方式:主动去消除模糊](https://blog.codepzj.cn/posts/28.html)
-- [添加echarts数据统计](https://blog.codepzj.cn/posts/27.html)
-- [添加chat组件](https://blog.codepzj.cn/posts/26.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub 数据统计
