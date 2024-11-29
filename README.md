@@ -28,6 +28,11 @@
 ## 📚最近博文更新
 
 <!-- BLOG-POST-LIST:START -->
+- [nuxt初始化被墙解决方案（DNS污染）](https://haohanxinghe.com/posts/33.html)
+- [数据科学概论复习（一）](https://haohanxinghe.com/posts/32.html)
+- [Go 学习笔记（一）](https://haohanxinghe.com/posts/31.html)
+- [artalk配置社交登录踩坑日记](https://haohanxinghe.com/posts/30.html)
+- [wiki侧边栏可设置为折叠块](https://haohanxinghe.com/posts/29.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub 数据统计
