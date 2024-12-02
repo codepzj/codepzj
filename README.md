@@ -28,11 +28,11 @@
 ## 📚最近博文更新
 
 <!-- BLOG-POST-LIST:START -->
+- [hexo-graph，我开发的第一个npm包](https://haohanxinghe.com/posts/36.html)
+- [如何发布自己的npm包](https://haohanxinghe.com/posts/35.html)
 - [1panel绕过限制，使用http3传输](https://haohanxinghe.com/posts/34.html)
 - [nuxt初始化被墙解决方案（DNS污染）](https://haohanxinghe.com/posts/33.html)
 - [数据科学概论复习（一）](https://haohanxinghe.com/posts/32.html)
-- [Go 学习笔记（一）](https://haohanxinghe.com/posts/31.html)
-- [artalk配置社交登录踩坑日记](https://haohanxinghe.com/posts/30.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub 数据统计
