@@ -28,11 +28,11 @@
 ## 📚最近博文更新
 
 <!-- BLOG-POST-LIST:START -->
+- [华硕充电器更换（差点被无良商家坑）](https://haohanxinghe.com/posts/42.html)
 - [前端工程化之配置eslint和prettier（2024版教程）](https://haohanxinghe.com/posts/41.html)
 - [html2md-一款好用的html转md在线工具](https://haohanxinghe.com/posts/40.html)
 - [将docker本地镜像推送到hub.docker.com](https://haohanxinghe.com/posts/39.html)
 - [gin向浏览器SetCookie失效踩坑](https://haohanxinghe.com/posts/38.html)
-- [提高自己的执行力](https://haohanxinghe.com/posts/37.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub 数据统计
