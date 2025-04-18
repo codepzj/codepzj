@@ -13,8 +13,7 @@
 - Docs: https://docs.codepzj.cn
 
 <a href="https://github.com/codepzj/">
-  <img width=350 height=150 src="https://github-readme-stats.vercel.app/api?username=codepzj&show_icons=true&count_private=true" />
-  <img width=350 height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=codepzj&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codepzj&show_icons=true&count_private=true" />
 </a>
 
 ## 技术栈
