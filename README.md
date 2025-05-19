@@ -9,8 +9,7 @@
 
 - QQ: 2363435714@qq.com
 - Email：email@codepzj.cn
-- Blog: https://haohanxinghe.com
-- Docs: https://docs.codepzj.cn
+- Wiki: https://gowiki.site
 
 <a href="https://github.com/codepzj/">
   <img src="https://github-readme-stats.vercel.app/api?username=codepzj&show_icons=true&count_private=true" />
@@ -18,7 +17,7 @@
 
 ## 技术栈
 
-![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,cpp,python,go,docker,git,github)
+![My Skills](https://skillicons.dev/icons?i=vue,go,docker,mongo,redis)
 
 ## 座右铭
 低级的欲望通过放纵就可获得；高级的欲望通过自律方可获得；顶级的欲望通过煎熬才可获得。“所谓自由，不是随心所欲，而是自我主宰。”
