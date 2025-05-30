@@ -1,19 +1,8 @@
-
-
-
-
 ## 你好 👋 
 
-✨ **欢迎来到我的 GitHub 主页！** ✨
-我是 codepzj，我对 **Golang** 和 **Python** 很感兴趣。
+我是codepzj
 
-- QQ: 2363435714@qq.com
-- Email：email@codepzj.cn
-- Wiki: https://gowiki.site
-
-<a href="https://github.com/codepzj/">
-  <img src="https://github-readme-stats.vercel.app/api?username=codepzj&show_icons=true&count_private=true" />
-</a>
+这是我的知识库，https://gowiki.site
 
 ## 技术栈
 
