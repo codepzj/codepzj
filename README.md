@@ -2,8 +2,6 @@
 
 我是codepzj
 
-这是我的知识库，https://gowiki.site
-
 ## 技术栈
 
 ![My Skills](https://skillicons.dev/icons?i=vue,go,docker,mongo,redis)
